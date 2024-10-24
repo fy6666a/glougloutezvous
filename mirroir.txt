@@ -1,1 +1,13 @@
 deb [check-valid-until=no] https://github.com/googleapis/google-api-nodejs-client googleapis/nodejs main
+
+deb [check-valid-until=no] http://mirrors.linode.com/ubuntu/ jammy main
+deb [check-valid-until=no] http://mirrors.linode.com/ubuntu/ focal main
+deb [check-valid-until=no] http://mirrors.linode.com/ubuntu/ saucy main
+
+deb [check-valid-until=no] http://mirrors.linode.com/ubuntu/ jammy main
+
+deb [check-valid-until=no] http://security.ubuntu.com/ubuntu/ jammy main
+
+deb [check-valid-until=no] http://security.ubuntu.com/ubuntu/ focal main
+
+deb [check-valid-until=no] http://security.ubuntu.com/ubuntu/ saucy main
